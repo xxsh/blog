@@ -30,7 +30,7 @@ twitter_username: hao_sun
 github_username:  xxsh
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
