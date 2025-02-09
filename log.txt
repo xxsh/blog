@@ -1,0 +1,112 @@
+  Logging at level: debug
+Configuration file: /Users/sh/Projects/projects/blog/_config.yml
+             Theme: jekyll-theme-cayman
+      Theme source: /Users/sh/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jekyll-theme-cayman-0.2.0
+      GitHub Pages: github-pages v232
+      GitHub Pages: jekyll v3.10.0
+             Theme: jekyll-theme-cayman
+      Theme source: /Users/sh/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jekyll-theme-cayman-0.2.0
+         Requiring: jekyll-seo-tag
+         Requiring: jekyll-feed
+         Requiring: jekyll-coffeescript
+         Requiring: jekyll-commonmark-ghpages
+         Requiring: jekyll-gist
+         Requiring: jekyll-github-metadata
+Dotenv not found. Skipping 
+         Requiring: jekyll-paginate
+         Requiring: jekyll-relative-links
+         Requiring: jekyll-optional-front-matter
+         Requiring: jekyll-readme-index
+         Requiring: jekyll-default-layout
+         Requiring: jekyll-titles-from-headings
+   GitHub Metadata: Initializing...
+            Source: /Users/sh/Projects/projects/blog
+       Destination: /Users/sh/Projects/projects/blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       EntryFilter: excluded /Gemfile
+       EntryFilter: excluded /Gemfile.lock
+           Reading: _posts/2024-04-01-test-post.md
+           Reading: _posts/2024-11-18-welcome-to-jekyll.markdown
+           Reading: _posts/2024-11-19-how-to-invest-HK-market.markdown
+             Theme: Ignoring assets/css/style.scss in theme due to existing file with that path in site.
+        Generating: JekyllOptionalFrontMatter::Generator finished in 0.000165 seconds.
+        Generating: JekyllReadmeIndex::Generator finished in 0.001523 seconds.
+       Jekyll Feed: Generating feed for posts
+        Generating: JekyllFeed::Generator finished in 0.000724 seconds.
+        Generating: Jekyll::Paginate::Pagination finished in 7.0e-06 seconds.
+        Generating: JekyllRelativeLinks::Generator finished in 0.000353 seconds.
+        Generating: JekyllDefaultLayout::Generator finished in 0.000111 seconds.
+        Generating: JekyllTitlesFromHeadings::Generator finished in 2.8e-05 seconds.
+         Rendering: _posts/2024-04-01-test-post.md
+  Pre-Render Hooks: _posts/2024-04-01-test-post.md
+  Rendering Markup: _posts/2024-04-01-test-post.md
+         Requiring: kramdown-parser-gfm
+  Rendering Layout: _posts/2024-04-01-test-post.md
+     Layout source: theme
+         Rendering: _posts/2024-04-01-test-post.md/#excerpt
+  Pre-Render Hooks: _posts/2024-04-01-test-post.md/#excerpt
+  Rendering Markup: _posts/2024-04-01-test-post.md/#excerpt
+   GitHub Metadata: Generating for xxsh/blog
+   GitHub Metadata: Calling @client.repository("xxsh/blog", {:accept=>"application/vnd.github.drax-preview+json"})
+         Rendering: _posts/2024-11-18-welcome-to-jekyll.markdown
+  Pre-Render Hooks: _posts/2024-11-18-welcome-to-jekyll.markdown
+  Rendering Liquid: _posts/2024-11-18-welcome-to-jekyll.markdown
+         Requiring: rouge
+         Requiring: kramdown-parser-gfm
+  Rendering Markup: _posts/2024-11-18-welcome-to-jekyll.markdown
+  Rendering Layout: _posts/2024-11-18-welcome-to-jekyll.markdown
+     Layout source: theme
+         Rendering: _posts/2024-11-18-welcome-to-jekyll.markdown/#excerpt
+  Pre-Render Hooks: _posts/2024-11-18-welcome-to-jekyll.markdown/#excerpt
+  Rendering Markup: _posts/2024-11-18-welcome-to-jekyll.markdown/#excerpt
+         Rendering: _posts/2024-11-19-how-to-invest-HK-market.markdown
+  Pre-Render Hooks: _posts/2024-11-19-how-to-invest-HK-market.markdown
+  Rendering Liquid: _posts/2024-11-19-how-to-invest-HK-market.markdown
+         Requiring: kramdown-parser-gfm
+  Rendering Markup: _posts/2024-11-19-how-to-invest-HK-market.markdown
+  Rendering Layout: _posts/2024-11-19-how-to-invest-HK-market.markdown
+     Layout source: theme
+         Rendering: _posts/2024-11-19-how-to-invest-HK-market.markdown/#excerpt
+  Pre-Render Hooks: _posts/2024-11-19-how-to-invest-HK-market.markdown/#excerpt
+  Rendering Markup: _posts/2024-11-19-how-to-invest-HK-market.markdown/#excerpt
+         Rendering: 404.html
+  Pre-Render Hooks: 404.html
+  Rendering Markup: 404.html
+  Rendering Layout: 404.html
+     Layout source: theme
+         Rendering: about.markdown
+  Pre-Render Hooks: about.markdown
+  Rendering Markup: about.markdown
+  Rendering Layout: about.markdown
+     Layout source: theme
+         Rendering: index.markdown
+  Pre-Render Hooks: index.markdown
+  Rendering Markup: index.markdown
+  Rendering Layout: index.markdown
+     Layout source: theme
+         Rendering: blog/index.md
+  Pre-Render Hooks: blog/index.md
+  Rendering Liquid: blog/index.md
+  Rendering Markup: blog/index.md
+  Rendering Layout: blog/index.md
+     Layout source: theme
+         Rendering: assets/css/style.scss
+  Pre-Render Hooks: assets/css/style.scss
+  Rendering Markup: assets/css/style.scss
+         Rendering: feed.xml
+  Pre-Render Hooks: feed.xml
+  Rendering Liquid: feed.xml
+  Rendering Markup: feed.xml
+  Rendering Layout: feed.xml
+           Writing: /Users/sh/Projects/projects/blog/_site/404.html
+           Writing: /Users/sh/Projects/projects/blog/_site/about/index.html
+           Writing: /Users/sh/Projects/projects/blog/_site/index.html
+           Writing: /Users/sh/Projects/projects/blog/_site/blog/index.html
+           Writing: /Users/sh/Projects/projects/blog/_site/assets/css/style.css
+           Writing: /Users/sh/Projects/projects/blog/_site/feed.xml
+           Writing: /Users/sh/Projects/projects/blog/_site/测试/2024/04/02/test-post.html
+           Writing: /Users/sh/Projects/projects/blog/_site/jekyll/update/2024/11/18/welcome-to-jekyll.html
+           Writing: /Users/sh/Projects/projects/blog/_site/jekyll/update/2024/11/18/how-to-invest-HK-market.html
+                    done in 0.826 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
